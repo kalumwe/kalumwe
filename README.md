@@ -6,7 +6,7 @@ determined and focused on elevating my career in the tech world.
 Am persitent and love challenging myself to keep learning more and finding solutions to problems and a passion for building robust, scalable, and secure applications.
 I'm eagerly looking to collaborate on any kind of projects and open to new opportunities.
 
-Skills: PHP, Javascript, HTML/CSS, Laravel, vue, MySql, Bootstrap, jquery C/C++
+Skills: PHP, Javascript, HTML/CSS, Laravel, vue, MySql, Bootstrap, jquery, C/C++
 
 - 🔭 I’m currently working on various projects
 - 🌱 I’m currently learning AWS
