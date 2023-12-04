@@ -9,7 +9,7 @@ I'm eagerly looking to collaborate on any kind of projects and open to new oppor
 Skills: PHP, Javascript, HTML/CSS, Laravel, vue, MySql, Bootstrap, jquery, C/C++
 
 - 🔭 I’m currently working on various projects
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS and new technologies.
 - 👯 I’m looking to collaborate on any projects
 - 💬 Ask me about PHP
 - 📫 How to reach me: kalukav55@gmail.com, please feel free to reach out. 
