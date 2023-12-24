@@ -14,7 +14,7 @@ Database: MySQL
 
 
 - 🔭 I’m currently working on related projects.
-- 🌱 I’m currently learning AWS and node.
+- 🌱 I’m currently learning Angular and node.
 - 💬 Ask me about PHP or Javascript.
 - 📫 How to reach me: kalukav55@gmail.com, please feel free to reach out for collaborations or inquiries. 
 
