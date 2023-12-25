@@ -7,8 +7,10 @@ Am persitent and love challenging myself to keep learning more and finding solut
 I'm eagerly looking to collaborate on any kind of projects and open to new opportunities.
 
 Skills
+
 Languages: PHP, Javascript, C/C++, HTML/CSS
 Frameworks: Laravel, vue, Bootstrap, jquery
+
 Database: MySQL
 
 
