@@ -11,8 +11,6 @@ Languages/Tech: PHP, Javascript, C/C++, HTML/CSS
 Frameworks: Laravel, vue, Bootstrap, jquery
 Database: MySQL
 
-
-
 - 🔭 I’m currently working on related projects.
 - 🌱 I’m currently learning Angular and node.
 - 💬 Ask me about PHP or Javascript.
