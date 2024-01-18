@@ -7,9 +7,9 @@ Am persitent and love challenging myself to keep learning more and finding solut
 Looking to collaborate on any kind of projects and open to new opportunities.
 
 Skills         
-Languages/Tech: PHP, Javascript, C/C++, HTML/CSS.	      
+Languages/Tech: PHP, Javascript, Node.js, HTML/CSS, C/C++.	      
 Frameworks: Laravel, vue, Bootstrap, jquery.      
-Database: MySQL
+Database: MySQL, MongoDB.
 
 - 🔭 I’m currently working on related projects.
 - 🌱 I’m currently learning Angular and node.js.
