@@ -8,11 +8,11 @@ Looking to collaborate on any kind of projects and open to new opportunities.
 
 Skills         
 Languages/Tech: PHP, Javascript, HTML/CSS, C/C++, Node.js.	      
-Frameworks: Laravel, vue, Bootstrap, jquery.      
+Frameworks: Laravel, vue.js, Bootstrap, jquery.      
 Database: MySQL, MongoDB.
 
 - 🔭 I’m currently working on related projects.
-- 🌱 I’m currently learning Angular and node.js.
+- 🌱 I’m currently learning Angular.js and node.js.
 - 💬 Ask me about PHP or Javascript.
 - 📫 How to reach me: kalukav55@gmail.com, please feel free to reach out for collaborations or inquiries. 
 
