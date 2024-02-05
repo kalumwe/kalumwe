@@ -1,4 +1,4 @@
-[![MasterHead](https://featherflags.us/cdn/shop/articles/best-free-feather-flag-design-software.webp)](https://kalumwe.io)
+[![MasterHead](https://wedevs.com/_ipx/https://cdn.wedevs.com/uploads/2021/04/Best-project-management-software-for-web-designers.png)](https://kalumwe.io)
 <h1 align="center">Hi 👋, I'm Kalumba Mweshi</h1>
 <h3 align="center">Full-stack Web Developer</h3>
 <p>I'm an enthusiastic and dedicated developer with a keen a interest in web development,
