@@ -1,4 +1,4 @@
-[![MasterHead](https://media.coschedule.com/uploads/2023/02/Blog_The-7-Best-Marketing-Project-Management-Software-To-See-Top-Tier-Success_Header-copy.png)](https://kalumwe.io)
+[![MasterHead](https://featherflags.us/cdn/shop/articles/best-free-feather-flag-design-software.webp)](https://kalumwe.io)
 <h1 align="center">Hi 👋, I'm Kalumba Mweshi</h1>
 <h3 align="center">Full-stack Web Developer</h3>
 <p>I'm an enthusiastic and dedicated developer with a keen a interest in web development,
@@ -7,7 +7,12 @@ determined and focused on elevating my career in the tech world.
 Am persitent and love challenging myself to keep learning more and finding solutions to problems and a passion for building robust,
  scalable, and secure applications. Looking to collaborate on any kind of projects and open to new opportunities.
 </p>
-
+<h4>Skills</h4>
+<ul>
+<li><strong>Languages/Tech:</strong> PHP, Javascript, HTML/CSS, C/C++, Node.js.</li>
+<li><strong>Frameworks:</strong> Laravel, vue.js, Bootstrap, jquery, bulma</Li>
+<li><strong>Database:</strong> MySQL, MongoDB.</Li>
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalumwe&label=Profile%20views&color=0e75b6&style=flat" alt="kalumwe" /> </p>
 
