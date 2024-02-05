@@ -1,7 +1,7 @@
 [![MasterHead](https://media.coschedule.com/uploads/2023/02/Blog_The-7-Best-Marketing-Project-Management-Software-To-See-Top-Tier-Success_Header-copy.png)](https://kalumwe.io)
 <h1 align="center">Hi 👋, I'm Kalumba Mweshi</h1>
 <h3 align="center">Full-stack Web Developer</h3>
-<p  align="center">I'm an enthusiastic and dedicated developer with a keen a interest in web development,
+<p>I'm an enthusiastic and dedicated developer with a keen a interest in web development,
 determined and focused on elevating my career in the tech world.
 <br>
 Am persitent and love challenging myself to keep learning more and finding solutions to problems and a passion for building robust,
