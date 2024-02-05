@@ -25,7 +25,7 @@ Am persitent and love challenging myself to keep learning more and finding solut
 - 📫 How to reach me **kalukav55@gmail.com**, please feel free to reach out for collaborations or inquiries
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://github.com/kalumwe" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" alt="github" width="40" height="40"/> </a> <a href="[https://github.com/kalumwe](https://www.facebook.com/kalu.kav.7)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png" alt="facebook" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
