@@ -22,7 +22,7 @@ Am persitent and love challenging myself to keep learning more and finding solut
 
 - 💬 Ask me about **PHP, Javascript**
 
-- 📫 How to reach me **kalukav55@gmail.com, please feel free to reach out for collaborations or inquiries**
+- 📫 How to reach me **kalukav55@gmail.com**, please feel free to reach out for collaborations or inquiries
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
