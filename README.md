@@ -10,7 +10,7 @@ Am persitent and love challenging myself to keep learning more and finding solut
 <h4>Skills</h4>
 <ul>
 <li><strong>Languages/Tech:</strong> PHP, Javascript, HTML/CSS, C/C++, Node.js.</li>
-<li><strong>Frameworks:</strong> Laravel, vue.js, Bootstrap, jquery, bulma</Li>
+<li><strong>Frameworks:</strong> Laravel, vue.js, Bootstrap, jquery, bulma.</Li>
 <li><strong>Database:</strong> MySQL, MongoDB.</Li>
 </ul>
 
@@ -22,7 +22,7 @@ Am persitent and love challenging myself to keep learning more and finding solut
 
 - 💬 Ask me about **PHP, Javascript**
 
-- 📫 How to reach me **kalukav55@gmail.com**
+- 📫 How to reach me **kalukav55@gmail.com, please feel free to reach out for collaborations or inquiries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
