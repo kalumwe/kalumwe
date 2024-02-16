@@ -33,4 +33,4 @@ Am persitent and love challenging myself to keep learning more and finding solut
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalumwe&show_icons=true&locale=en&layout=compact" alt="kalumwe" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalumwe&show_icons=true&locale=en" alt="kalumwe" /></p>
+
