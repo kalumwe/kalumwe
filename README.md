@@ -18,7 +18,7 @@ Am persitent, resilient, committed and love challenging myself to keep learning 
 
 - 🔭 I’m currently working on **related projects**
 
-- 🌱 I’m currently learning **Angular.js, node.js**
+- 🌱 I’m currently learning **Angular.js, TypeScript**
 
 - 💬 Ask me about **PHP, Javascript**
 
