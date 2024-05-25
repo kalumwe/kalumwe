@@ -35,6 +35,6 @@ Am persitent, resilient, committed and love challenging myself to keep learning 
 <a href="https://www.apachefriends.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354575/xampp.svg" alt="xampp" width="40" height="40"/> </a>
  </a></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalumwe&show_icons=true&locale=en&layout=compact" alt="kalumwe" /></p>
+
 
 
