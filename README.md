@@ -9,8 +9,8 @@ Am persitent, resilient, committed and love challenging myself to keep learning 
 </p>
 <h4>Skills</h4>
 <ul>
-<li><strong>Languages:</strong> PHP, Javascript, HTML/CSS, C/C++.</li>
-<li><strong>Frameworks/Tech:</strong> Laravel, vue.js, Bootstrap, jquery, Node.js, Express, bulma, Restful APIs, composer, Mocha and chai, Json, XML.</Li>
+<li><strong>Languages:</strong> PHP, Javascript, Typescript, HTML/CSS, C/C++.</li>
+<li><strong>Frameworks/Tech:</strong> Laravel, Angular, vue.js, Bootstrap, jquery, Node.js, Express, bulma, Restful APIs, composer, Unit Testing, Json, XML.</Li>
 <li><strong>Database:</strong> MySQL, MongoDB.</Li>
 </ul>
 
